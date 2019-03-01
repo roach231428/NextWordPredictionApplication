@@ -1,0 +1,13 @@
+name: NextWordPredictionApplication
+title: NextWordPredictionApplication
+username:
+account: roachchang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 753341
+bundleId: 1909114
+url: https://roachchang.shinyapps.io/NextWordPredictionApplication/
+when: 1551450773.25168
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .gitattributes
